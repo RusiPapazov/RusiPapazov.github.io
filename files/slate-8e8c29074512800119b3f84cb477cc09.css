@@ -1,1 +1,627 @@
-.website,.email,.break-word{word-break:break-word}h1{font-size:2.25em}h2{font-size:2em}h2.section_header{font-size:1em}h2.section_header span{font-size:inherit}h3{font-size:1.5em}h3.section_header{font-size:1em}h3.section_header span{font-size:inherit}h4{font-size:1.2em}h5{font-size:1em}h6{font-size:0.8em}p,li,li li,label,.label{font-size:1em}.objective p,.objective li,.objective li li,.objective label,.objective .label,.description p,.description li,.description li li,.description label,.description .label{font-size:1em}.objective p,.description p{margin:0;line-height:1.4}.objective ul,.description ul{margin:0;padding:0 0 0 20px;margin-bottom:5px}.objective table,.description table{margin:0.5em auto;width:100%}.objective table td,.description table td{border:1px solid #ccc;padding:0.2em}.objective code,.objective pre,.description code,.description pre{background:none}.objective blockquote,.description blockquote{margin:0.5em auto}.date{font-size:12px}.pdf .objective,.pdf .description{word-wrap:break-word}.pdf .objective code,.pdf .objective pre,.pdf .description code,.pdf .description pre{word-break:break-word}.about.photo-resume .photo{margin:0.8em 0}.about.photo-resume .photo img{max-height:220px;display:inline-block}body.pdf h1{font-size:1.8em}body.pdf h2{font-size:1.6em}body.pdf h2.section_header{font-size:1em}body.pdf h2.section_header span{font-size:inherit}body.pdf h3{font-size:1.25em}body.pdf h3.section_header{font-size:1em}body.pdf h3.section_header span{font-size:inherit}body.pdf .recommendations-section h2.section_header,body.pdf .recommendations-section h3.section_header{font-size:0.85em}body.pdf h4{font-size:1.15em}body.pdf h5{font-size:1em}body.pdf h6{font-size:0.8em}body.pdf .date{font-size:0.9em}.concrete h1{font-size:1.8em;word-break:word-break}.concrete h4{font-size:1em}.concise h1,.slim h1,.concise.pdf h1,.slim.pdf h1,.collegium h1,.charisma h1,.collegium.pdf h1,.charisma.pdf h1{font-size:1.6em}.concise h2,.slim h2,.concise.pdf h2,.slim.pdf h2,.collegium h2,.charisma h2,.collegium.pdf h2,.charisma.pdf h2{font-size:1.25em}.concise h2.section_header,.slim h2.section_header,.concise.pdf h2.section_header,.slim.pdf h2.section_header,.collegium h2.section_header,.charisma h2.section_header,.collegium.pdf h2.section_header,.charisma.pdf h2.section_header{font-size:1em}.concise h3,.slim h3,.concise.pdf h3,.slim.pdf h3,.collegium h3,.charisma h3,.collegium.pdf h3,.charisma.pdf h3{font-size:1.2em}.concise h3.section_header,.slim h3.section_header,.concise.pdf h3.section_header,.slim.pdf h3.section_header,.collegium h3.section_header,.charisma h3.section_header,.collegium.pdf h3.section_header,.charisma.pdf h3.section_header{font-size:1em}.concise h4,.slim h4,.concise.pdf h4,.slim.pdf h4,.collegium h4,.charisma h4,.collegium.pdf h4,.charisma.pdf h4{font-size:1.05em}.concise h5,.slim h5,.concise.pdf h5,.slim.pdf h5,.collegium h5,.charisma h5,.collegium.pdf h5,.charisma.pdf h5{font-size:0.9em}.concise h6,.slim h6,.concise.pdf h6,.slim.pdf h6,.collegium h6,.charisma h6,.collegium.pdf h6,.charisma.pdf h6{font-size:0.8em}.concise .recommendations h2.section_header,.slim .recommendations h2.section_header,.concise.pdf .recommendations h2.section_header,.slim.pdf .recommendations h2.section_header,.collegium .recommendations h2.section_header,.charisma .recommendations h2.section_header,.collegium.pdf .recommendations h2.section_header,.charisma.pdf .recommendations h2.section_header{font-size:0.9em}.concise .date,.slim .date,.concise.pdf .date,.slim.pdf .date,.collegium .date,.charisma .date,.collegium.pdf .date,.charisma.pdf .date{font-size:0.9em}.slim.pdf h2.section_header span{padding:5px;font-size:1.3em;line-height:1.5}.collegium h1,.collegium.pdf h1{font-size:1.75em}.collegium.pdf h2.section_header span,.charisma.pdf h2.section_header span{font-size:1.1em !important}.bold.pdf h3{font-size:1.15em}.bold.pdf h3.section_header{font-size:1em}.bold.pdf h4{font-size:1.05em}.bold.pdf h2{font-size:1.4em}.bold.pdf h2.section_header{font-size:1.1em}.bold.pdf h2.section_header span{font-size:inherit !important}.elegant.pdf h2.section_header{font-size:0.95em}@media (max-width: 900px){body.html{font-size:16px;line-height:1.5}}.contact{border:none;width:100%}.contact tr .label-container{width:28%;vertical-align:top;border-right:0.25em solid transparent}.contact tr th,.contact tr td{color:black;border:none}.clear tr .label-container{width:12%}.about .row .no-padd-left{padding-left:0}.about .row .no-padd-right{padding-right:0}.prestige.pdf .about .contact-panel .label-container{font-size:0.9em}.slate{font-size:13px}.slate h1,.slate h2,.slate h3,.slate h4,.slate h5,.slate h6,.slate p,.slate li,.slate span,.slate .description,.slate label,.slate .label,.slate .date{font-family:"Montserrat", Helvetica, Arial, sans-serif}.slate p,.slate li,.slate span,.slate strong,.slate input,.slate .description,.slate .skill_list,.slate .language_list{color:#7E7C7C}.slate .personal_details,.slate .section{display:table;width:100%}.slate .one-fourth{display:table-cell;width:300px;min-width:300px;max-width:300px;padding:10px;border-right:1px solid #d6d6d8;vertical-align:top;padding-right:10px}.slate .three-fourth{display:table-cell;width:550px;min-width:550px;max-width:550px;padding-bottom:0.5em;padding-left:20px;vertical-align:top}.slate .personal_details .name h1{text-transform:uppercase;font-size:1.65em;font-weight:700;word-break:break-word}.slate .personal_details .name h4{color:#acacac;font-size:0.9em}.slate .contact{font-size:0.9em}.slate .objective{font-size:1.1em;line-height:1.4em;position:relative;padding-left:80px;padding-top:20px}.slate .quote-img{max-width:70px;float:left;display:inline;margin-top:20px;margin-right:10px}.slate .section_header{font-size:1.1em;text-align:right;font-weight:700;margin-top:0px}.slate .section_header span{padding-bottom:2px;color:inherit;font-size:inherit;font-weight:inherit;text-transform:uppercase}.slate .resume .section .item{border-bottom:1px dotted #acacac;padding:0.8em 0}.slate .resume .section .item:last-child{border-bottom:none}.slate .resume .section .item .date{font-size:1em;color:#7E7C7C;text-align:right}.slate .resume .section .item h4{color:#acacac}.slate .resume .section .item h3{margin:0}.slate .resume .section .item .language_list h3,.slate .resume .section .item .language_list h4{display:inline}.slate .resume .section .language-item{margin-top:20px}.slate .resume .section .skill-item{margin-top:20px}.slate .slate-cover-letter{width:850px}.slate .slate-cover-letter .personal_details,.slate .slate-cover-letter .section{display:block;width:850px}.slate .slate-cover-letter .one-fourth{display:block;width:850px;min-width:850px;max-width:850px;border-right:none;border-bottom:1px solid #d6d6d8;overflow:hidden}.slate .slate-cover-letter .three-fourth{width:0;max-width:0;min-width:0;display:none}@media screen and (max-width: 900px){.slate.html .section,.slate.html .personal_details{display:block}.slate.html .personal_details{padding:0 5px}.slate.html .one-fourth{display:block;border-right:none;padding-bottom:1px;width:100%;min-width:100%;min-height:100%;background:none;padding:10px 0 0px 0px}.slate.html .section .section_header{margin-right:0px;margin-bottom:5px;text-align:left}.slate.html .section .item .date{text-align:left;margin-bottom:10px}.slate.html .personal_details{border-bottom:1px solid #d6d6d8;padding:0 5px 5px 5px}.slate.html .three-fourth{display:block;width:100%;min-width:100%;min-height:100%}.slate.html .resume .three-fourth{padding-left:0}}.slate.pdf .one-fourth{width:270px;min-width:270px;max-width:270px}.slate.pdf .quote-img{max-width:65px}.slate.pdf .three-fourth{width:580px}.slate.pdf .slate-cover-letter{width:810px}.slate.pdf .slate-cover-letter .personal_details,.slate.pdf .slate-cover-letter .section{display:block;width:810px}.slate.pdf .slate-cover-letter .one-fourth{display:block;width:810px;min-width:810px;max-width:810px;border-right:none;border-bottom:1px solid #d6d6d8;overflow:hidden}.slate.pdf .slate-cover-letter .three-fourth{width:0;max-width:0;min-width:0;display:none}.slate.pdf .personal_details .name h1{font-size:1.4em}
+.website,
+.email,
+.break-word {
+    word-break: break-word;
+}
+
+h1 {
+    font-size: 2.25em;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+h2.section_header {
+    font-size: 1em;
+}
+
+h2.section_header span{
+    font-size: inherit;
+}
+
+h3 {
+    font-size: 1.5em;
+}
+
+h3.section_header {
+    font-size: 1em;
+}
+
+h3.section_header span {
+    font-size: inherit;
+}
+
+h4 {
+    font-size: 1.2em;
+}
+
+h5 {
+    font-size: 1em;
+}
+
+h6 {
+    font-size: 0.8em;
+}
+
+p, li, li li, label, .label {
+    font-size: 1em;
+}
+.objective p,
+.objective li,
+.objective li li,
+.objective label,
+.objective .label,
+.description p,
+.description li,
+.description li li,
+.description label,
+.description .label {
+    font-size: 1em;
+}
+
+.objective p,
+.description p {
+    margin: 0;
+    line-height: 1.4;
+}
+
+.objective ul,
+.description ul {
+    margin: 0;
+    padding: 0 0 0 20px;
+    margin-bottom: 5px;
+}
+
+.objective table,
+.description table {
+    margin: 0.5em auto;
+    width: 100%;
+}
+
+.objective table td,
+.description table td {
+    border: 1px solid #ccc;
+    padding: 0.2em;
+}
+
+.objective code,
+.objective pre,
+.description code,
+.description pre {
+    background: none;
+}
+
+.objective blockquote,
+.description blockquote {
+    margin: 0.5em auto;
+}
+
+.date {
+    font-size: 12px;
+}
+
+.pdf .objective,
+.pdf .description {
+    word-wrap: break-word;
+}
+
+.pdf .objective code,
+.pdf .objective pre,
+.pdf .description code,
+.pdf .description pre {
+    word-break: break-word;
+}
+
+.about.photo-resume .photo{
+    margin: 0.8em 0;
+}
+
+.about.photo-resume .photo img {
+    max-height: 220px;
+    display: inline-block;
+}
+
+body.pdf h1 {
+    font-size: 1.8em;
+}
+
+body.pdf h2 {
+    font-size: 1.6em;
+}
+
+body.pdf h2.section_header {
+    font-size: 1em;
+}
+
+body.pdf h2.section_header span {
+    font-size: inherit;
+}
+
+body.pdf h3 {
+    font-size: 1.25em;
+}
+
+body.pdf h3.section_header {
+    font-size: 1em;
+}
+
+body.pdf h3.section_header span {
+    font-size: inherit;
+}
+
+body.pdf .recommendations-section h2.section_header,
+body.pdf .recommendations-section h3.section_header {
+    font-size: 0.85em;
+}
+
+body.pdf h4 {
+    font-size: 1.15em;
+}
+
+body.pdf h5 {
+    font-size: 1em;
+}
+
+body.pdf h6 {
+    font-size: 0.8em;
+}
+
+body.pdf .date {
+    font-size: 0.9em;
+}
+
+.concrete h1 {
+    font-size: 1.8em;
+    word-break: word-break;
+}
+
+.concrete h4 {
+    font-size: 1em;
+}
+
+.concise h1,
+.slim h1,
+.concise.pdf h1,
+.slim.pdf h1,
+.collegium h1,
+.charisma h1,
+.collegium.pdf h1,
+.charisma.pdf h1 {
+    font-size: 1.6em;
+}
+
+.concise h2,
+.slim h2,
+.concise.pdf h2,
+.slim.pdf h2,
+.collegium h2,
+.charisma h2,
+.collegium.pdf h2,
+.charisma.pdf h2 {
+    font-size: 1.25em;
+}
+
+.concise h2.section_header,
+.slim h2.section_header,
+.concise.pdf h2.section_header,
+.slim.pdf h2.section_header,
+.collegium h2.section_header,
+.charisma h2.section_header,
+.collegium.pdf h2.section_header,
+.charisma.pdf h2.section_header {
+    font-size: 1em;
+}
+
+.concise h3,
+.slim h3,
+.concise.pdf h3,
+.slim.pdf h3,
+.collegium h3,
+.charisma h3,
+.collegium.pdf h3,
+.charisma.pdf h3 {
+    font-size: 1.2em;
+}
+
+.concise h3.section_header,
+.slim h3.section_header,
+.concise.pdf h3.section_header,
+.slim.pdf h3.section_header,
+.collegium h3.section_header,
+.charisma h3.section_header,
+.collegium.pdf h3.section_header,
+.charisma.pdf h3.section_header {
+    font-size: 1em;
+}
+
+.concise h4,
+.slim h4,
+.concise.pdf h4,
+.slim.pdf h4,
+.collegium h4,
+.charisma h4,
+.collegium.pdf h4,
+.charisma.pdf h4 {
+    font-size: 1.05em;
+}
+
+.concise h5,
+.slim h5,
+.concise.pdf h5,
+.slim.pdf h5,
+.collegium h5,
+.charisma h5,
+.collegium.pdf h5,
+.charisma.pdf h5 {
+    font-size: 0.9em;
+}
+
+.concise h6,
+.slim h6,
+.concise.pdf h6,
+.slim.pdf h6,
+.collegium h6,
+.charisma h6,
+.collegium.pdf h6,
+.charisma.pdf h6 {
+    font-size: 0.8em;
+}
+
+.concise .recommendations h2.section_header,
+.slim .recommendations h2.section_header,
+.concise.pdf .recommendations h2.section_header,
+.slim.pdf .recommendations h2.section_header,
+.collegium .recommendations h2.section_header,
+.charisma .recommendations h2.section_header,
+.collegium.pdf .recommendations h2.section_header,
+.charisma.pdf .recommendations h2.section_header {
+    font-size: 0.9em;
+}
+
+.concise .date,
+.slim .date,
+.concise.pdf .date,
+.slim.pdf .date,
+.collegium .date,
+.charisma .date,
+.collegium.pdf .date,
+.charisma.pdf .date {
+    font-size: 0.9em;
+}
+
+.slim.pdf h2.section_header span {
+    padding: 5px;
+    font-size: 1.3em;
+    line-height: 1.5;
+}
+
+.collegium h1,
+.collegium.pdf h1 {
+    font-size: 1.75em;
+}
+
+.collegium.pdf h2.section_header span,
+.charisma.pdf h2.section_header span {
+    font-size: 1.1em !important;
+}
+
+.bold.pdf h3 {
+    font-size: 1.15em;
+}
+
+.bold.pdf h3.section_header {
+    font-size: 1em;
+}
+
+.bold.pdf h4 {
+    font-size: 1.05em;
+}
+
+.bold.pdf h2 {
+    font-size: 1.4em;
+}
+
+.bold.pdf h2.section_header {
+    font-size: 1.1em;
+}
+
+.bold.pdf h2.section_header span {
+    font-size: inherit !important;
+}
+
+.elegant.pdf h2.section_header {
+    font-size: 0.95em;
+}
+
+@media (max-width: 900px) {
+    body.html {
+        font-size: 16px;
+        line-height:1.5;
+    }
+}
+
+.contact {
+    border: none;
+    width: 100%;
+}
+
+.contact tr .label-container {
+    width: 28%;
+    vertical-align: top;
+    border-right: 0.25em solid transparent;
+}
+
+.contact tr th,
+.contact tr td {
+    color: black;
+    border: none;
+}
+
+.clear tr .label-container {
+    width: 12%;
+}
+
+.about .row .no-padd-left {
+    padding-left: 0;
+}
+
+.about .row .no-padd-right {
+    padding-right: 0;
+}
+
+.prestige.pdf .about .contact-panel .label-container {
+    font-size: 0.9em;
+}
+
+.slate h1,
+.slate h2,
+.slate h3,
+.slate h4,
+.slate h5,
+.slate h6,
+.slate p,
+.slate li,
+.slate span,
+.slate .description,
+.slate label,
+.slate .label,
+.slate .date {
+    font-family: "Montserrat", Helvetica, Arial, sans-serif;
+}
+
+.slate p,
+.slate li,
+.slate span,
+.slate strong,
+.slate input,
+.slate .description,
+.slate .skill_list,
+.slate .language_list {
+    color: #7E7C7C;
+}
+
+.slate .personal_details,.slate .section {
+    display: table;
+    width: 100%;
+}
+
+.slate .one-fourth {
+    display: table-cell;
+    width: 300px; min-width: 300px;
+    max-width: 300px;
+    padding: 10px;
+    border-right: 1px solid #d6d6d8;
+    vertical-align :top;
+}
+
+.slate .three-fourth {
+    display: table-cell;
+    width: 550px;
+    min-width: 550px;
+    max-width: 550px;
+    padding-bottom: 0.5em;
+    padding-left: 20px;
+    vertical-align: top;
+}
+
+.slate .personal_details .name h1 {
+    text-transform: uppercase;
+    font-size: 1.65em;
+    font-weight: 700;
+    word-break: break-word;
+}
+
+.slate .personal_details .name h4 {
+    color: #acacac;
+    font-size: 0.9em;
+}
+
+.slate .contact {
+    font-size: 0.9em;
+}
+
+.slate .objective {
+    font-size: 1.1em;
+    line-height: 1.4em;
+    position: relative;
+    padding-left: 80px;
+    padding-top: 20px;
+}
+
+.slate .quote-img {
+    max-width: 70px;
+    float: left;
+    display: inline;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.slate .section_header {
+    font-size: 1.1em;
+    text-align: right;
+    font-weight: 700;
+    margin-top: 0;
+}
+
+.slate .section_header span {
+    padding-bottom: 2px;
+    color: inherit;
+    font-size: inherit;
+    font-weight: inherit;
+    text-transform: uppercase;
+}
+
+.slate .resume .section .item {
+    border-bottom: 1px dotted #acacac;
+    padding: 0.8em 0;
+}
+
+.slate .resume .section .item:last-child {
+    border-bottom: none;
+}
+
+.slate .resume .section .item .date {
+    font-size: 1em;
+    color: #7E7C7C;
+    text-align: right;
+}
+
+.slate .resume .section .item h4 {
+    color:#acacac;
+}
+
+.slate .resume .section .item h3 {
+    margin: 0;
+}
+
+.slate .resume .section .item .language_list h3,
+.slate .resume .section .item .language_list h4 {
+    display: inline;
+}
+
+.slate .resume .section .language-item {
+    margin-top: 20px;
+}
+
+.slate .resume .section .skill-item {
+    margin-top: 20px;
+}
+
+.slate .slate-cover-letter {
+    width: 850px;
+}
+
+.slate .slate-cover-letter .personal_details,
+.slate .slate-cover-letter .section {
+    display: block; width: 850px;
+}
+
+.slate .slate-cover-letter .one-fourth {
+    display: block;
+    width: 850px;
+    min-width: 850px;
+    max-width: 850px;
+    border-right: none;
+    border-bottom: 1px solid #d6d6d8;
+    overflow: hidden;
+}
+
+.slate .slate-cover-letter .three-fourth {
+    width: 0;
+    max-width: 0;
+    min-width: 0;
+    display: none;
+}
+
+@media screen and (max-width: 900px) {
+    .slate.html .section,.slate.html .personal_details {
+        display: block;
+    }
+
+    .slate.html .personal_details {
+        padding: 0 5px;
+    }
+
+    .slate.html .one-fourth {
+        display: block;
+        border-right: none;
+        padding-bottom: 1px;
+        padding:10px 0 0px 0px;
+        width: 100%;
+        min-width: 100%;
+        min-height:100%;
+        background: none;
+    }
+    .slate.html .section .section_header {
+        margin-right: 0;
+        margin-bottom: 5px;
+        text-align: left;
+    }
+
+    .slate.html .section .item .date {
+        text-align: left;
+        margin-bottom: 10px;
+    }
+
+    .slate.html .personal_details {
+        border-bottom: 1px solid #d6d6d8;
+        padding: 0 5px 5px 5px;
+    }
+
+    .slate.html .three-fourth {
+        display: block;
+        width: 100%;
+        min-width: 100%;
+        min-height:100%;
+    }
+
+    .slate.html .resume .three-fourth {
+        padding-left: 0;
+    }
+}
+
+.slate.pdf .one-fourth {
+    width: 270px;
+    min-width: 270px;
+    max-width: 270px;
+}
+
+.slate.pdf .quote-img {
+    max-width: 65px;
+}
+
+.slate.pdf .three-fourth {
+    width: 580px;
+}
+
+.slate.pdf .slate-cover-letter {
+    width: 810px;
+}
+
+.slate.pdf .slate-cover-letter .personal_details,
+.slate.pdf .slate-cover-letter .section {
+    display: block;
+    width: 810px;
+}
+
+.slate.pdf .slate-cover-letter .one-fourth {
+    display: block;
+    width: 810px;
+    min-width: 810px;
+    max-width: 810px;
+    border-right: none;
+    border-bottom: 1px solid #d6d6d8;
+    overflow:hidden;
+}
+
+.slate.pdf .slate-cover-letter .three-fourth {
+    width: 0;
+    max-width: 0;
+    min-width: 0;
+    display: none;
+}
+
+.slate.pdf .personal_details .name h1 {
+    font-size: 1.4em;
+}
